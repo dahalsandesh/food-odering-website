@@ -1,6 +1,6 @@
 # Food Ordering Website
 
-This is a simple web application for food ordering, allowing users to browse menus, place orders, and make payments online. The project is built using HTML, CSS, JavaScript, and PHP for the backend.
+#### This is a simple web application for food ordering, allowing users to browse menus, place orders, and make payments online. The project is built using HTML, CSS, JavaScript, and PHP for the backend.
 (It was a part of my IT Engineering 4semester 1cr. hr project accomplished with my project partner Pankaj Shah.I have done all the fronted part and some backend + database )
 
 ## Features
